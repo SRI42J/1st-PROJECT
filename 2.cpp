@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 	int  i,n;
-	cout<<"enter n value: ";
+	cout<<"enter the n value: ";
 	cin>>n;
 	i=1;
 	while(i<=n)
@@ -11,5 +11,5 @@ int main()
     	cout<<i;
     	i++;
 	}
-	cout<<"I love c++ programming"<<endl;
+	cout<<"I love c++ programming language"<<endl;
 }
