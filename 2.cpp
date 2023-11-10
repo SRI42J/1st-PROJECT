@@ -11,4 +11,5 @@ int main()
     	cout<<i;
     	i++;
 	}
+	cout<<"I love c++ programming"<<endl;
 }
